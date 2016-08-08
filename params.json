@@ -1,6 +1,6 @@
 {
   "name": "WBrowser",
   "tagline": "WBrowser - упрощённый LBrowser от WBrowser Foundation",
-  "body": "### О WBrowser\r\nУпрощенный форк браузера LBrowser\r\nНаписан также на PHP DevelStudio 3.0, как и LBrowser\r\n\r\n### Особенности\r\nДвижок Chromium\r\nПохож на LBrowser\r\nБесплатен\r\nСовместимость: Windows XP и выше",
+  "body": "### О WBrowser\r\nУпрощенный форк браузера LBrowser\r\n***\r\nНаписан также на PHP DevelStudio 3.0, как и LBrowser\r\n\r\n### Требования\r\nMicrosoft Windows XP SP3 и выше\r\n***\r\n[Microsoft Visual C++ 2008 x86](https://github.com/wbrowserfoundation/wbrowser/raw/master/vcredist_x86.exe)\r\n\r\n### Особенности\r\nДвижок Chromium\r\n***\r\nПохож на LBrowser\r\n***\r\nБесплатен",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
